@@ -1,6 +1,6 @@
 # Architecture
 <br>
-This is the proposed architecture <br>
+
 <img width="729" height="160" alt="image" src="https://github.com/user-attachments/assets/a9bfef26-8015-428a-82d5-cfa60afd9ba9" />
 
 # Data Transmission
